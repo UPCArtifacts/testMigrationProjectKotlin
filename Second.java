@@ -1,6 +1,6 @@
 public class Second{
 fun saySecond() {
-    println("Second")
+    println("Second2")
   }
 
 }
