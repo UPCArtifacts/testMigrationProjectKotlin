@@ -1,6 +1,8 @@
 public class Second{
-fun saySecond() {
-    println("Second2")
-  }
+   
+   public void saySecond(){
+       System.out.println("SSS");
+       
+   }
 
 }
