@@ -1,5 +1,5 @@
 class Hello {
   fun sayHello() {
-    println("Hello")
+    println("HelloChanged")
   }
 }
